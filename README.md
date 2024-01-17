@@ -1,6 +1,7 @@
 # KrsolGradeScraper
 
-![image](https://github.com/HilmiStd/KrsolGradeScraper/assets/147703897/1417d0cc-b32c-44ec-be5a-a3071c5748d3)
+![image](https://github.com/HilmiStd/KrsolGradeScraper/assets/147703897/d478f646-0651-4785-a747-3867dc3366ae)
+
 
 Aplikasi web scraping untuk melihat nilai di KRSOL UNIMMA.
 
