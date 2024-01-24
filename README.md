@@ -5,6 +5,10 @@
 
 Aplikasi web scraping untuk melihat nilai di KRSOL UNIMMA.
 
+## Sebelum Instalasi
+![image](https://github.com/HilmiStd/KrsolGradeScraper/assets/147703897/a89ced48-548c-475c-be86-0c8ddf714d7e)
+Jika di web KRSOL muncul seperti ini berarti script ini tidak akan berfungsi. Pastikan fight bot mode di web KRSOL sudah dimatikan oleh admin sebelum menggunakan script ini.
+
 ## Instalasi
 
 1. Clone repository ini ke lokal mesin Anda:
